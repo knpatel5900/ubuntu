@@ -2,6 +2,6 @@
 
 **Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.**
 
-![Kubernates]([https://kubernetes.io/images/kubernetes-horizontal-color.png](https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png](https://th.bing.com/th/id/R.60b39a8b910a2423acdf2dad9cbc3e56?rik=jc%2fyrHhmYtssjQ&riu=http%3a%2f%2fgrephaxs.com%2fwp-content%2fuploads%2f2014%2f01%2fUbuntu-1404-VPS.jpg&ehk=5i4s1wTbsIJ7GVbay5ynatWHIdB05RR4CKkSLaw6u%2fg%3d&risl=&pid=ImgRaw&r=0)https://th.bing.com/th/id/R.60b39a8b910a2423acdf2dad9cbc3e56?rik=jc%2fyrHhmYtssjQ&riu=http%3a%2f%2fgrephaxs.com%2fwp-content%2fuploads%2f2014%2f01%2fUbuntu-1404-VPS.jpg&ehk=5i4s1wTbsIJ7GVbay5ynatWHIdB05RR4CKkSLaw6u%2fg%3d&risl=&pid=ImgRaw&r=0))
+![Kubernates](https://th.bing.com/th/id/R.2a597cab109596b4e37e7721336804f6?rik=%2fYCDrfYJLfyj%2bw&riu=http%3a%2f%2f4.bp.blogspot.com%2f-L5sH-DTc3QQ%2fU1Csgolo72I%2fAAAAAAAACSM%2fKFNiGaJxJ0o%2fs1600%2fubuntu_logo2.jpg&ehk=dPPj%2fcO9foEEBZvrAlbz5zQTkXtr3Cj4khh5Gk8kZgE%3d&risl=&pid=ImgRaw&r=0))
 
 _Ubuntu is a Linux distribution based on Debian and composed mostly of free and open-source software.._
